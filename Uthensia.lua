@@ -11571,7 +11571,7 @@ MissionEdit:add_separator()
         local instance = setmetatable({}, TransactionManager);
     
         instance.Transactions = {
-            {label = "15 MILLION", hash = 0x176D9D54},
+            {label = "15 BILLION", hash = 0x176D9D54},
             {label = "15 MILLION", hash = 0xA174F633},
             {label = "7 MILLION", hash = 0xED97AFC1},
             {label = "3.6 MILLION", hash = 0xB703ED29},
